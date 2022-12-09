@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="查看是否与github有区别,测试转移仓库1" />
+    <HelloWorld msg="查看是否与github有区别,测试转移仓库1s" />
   </div>
 </template>
 
