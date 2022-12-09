@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="测试,我要删除一些东西" />
+    <HelloWorld msg="查看是否与github有区别" />
   </div>
 </template>
 
