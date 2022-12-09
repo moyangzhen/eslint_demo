@@ -42,3 +42,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 给最近的一次commit加上一个tag
 `git tag '我是星期五提交的代码'`
+## 对某次已经提交到github上的代码进行补救打tag
+`1.git log --pretty=oneline --abbrev commit`
+`2.git tag 'tag内容' commitID`
+
+## 如何配置不提交到仓库的方法
+[gitignore地址](https://github.com/github/gitignore)
+
